@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Object.cpp
+c:\users\kk335\desktop\defence\object.cpp(15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kk335\desktop\defence\object.cpp(16): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\kk335\desktop\defence\object.cpp(17): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\kk335\desktop\defence\object.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kk335\desktop\defence\object.cpp(52): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\kk335\desktop\defence\object.cpp(53): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Defence.cpp
+c:\users\kk335\desktop\defence\defence.cpp(107): warning C4002: too many actual parameters for macro 'CreateWindowW'
+c:\users\kk335\desktop\defence\defence.cpp(501): warning C4018: '<': signed/unsigned mismatch
+c:\users\kk335\desktop\defence\defence.cpp(602): warning C4018: '<': signed/unsigned mismatch
+c:\users\kk335\desktop\defence\defence.cpp(159): warning C4101: 'hdc': unreferenced local variable
+  Generating Code...
+  Defence.vcxproj -> C:\Users\kk335\Desktop\Defence\Debug\Defence.exe
+  Defence.vcxproj -> C:\Users\kk335\Desktop\Defence\Debug\Defence.pdb (Full PDB)
